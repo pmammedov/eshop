@@ -25,3 +25,13 @@ main {
 .price {
   font-weight: bold;
 }
+
+.product-detail {
+  max-width: 600px;
+  margin-top: 16px;
+}
+
+.product-detail img {
+  width: 100%;
+  border-radius: 8px;
+}
